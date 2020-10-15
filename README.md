@@ -1,3 +1,3 @@
 # bangla-word-frequency
 
-![alt text](https://github.com/reshadmrrr/bangla-letter-frequence/bangla-text-freq-out.png?raw=true)
+![alt text](https://github.com/reshadmrrr/bangla-letter-frequency/bangla-text-freq-out.png?raw=true)
