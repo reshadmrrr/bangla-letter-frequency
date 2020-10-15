@@ -1,3 +1,3 @@
 # bangla-word-frequency
 
-<a href="./bangla-text-freq-out.png">
+![alt text](https://github.com/reshadmrrr/bangla-letter-frequence/bangla-text-freq-out.png?raw=true)
